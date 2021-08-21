@@ -1,2 +1,3 @@
-# kpop-1
-A data science project about Kpop idol groups, birthdays, and loads of regex
+# Of Idols and Birthdays
+
+Code for a self-initiated data science project. Involves mainly data cleaning, web scraping, and regex. Contains text and datetime data.
